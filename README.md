@@ -12,6 +12,7 @@ This project analyzes retail sales data from a fictional store to derive actiona
 
 
 ## Dataset Description
+Dataset: Sample retail sales dataset (synthetic / practice dataset)
 The dataset contains transaction-level data with the following columns:
 *	transactions_id – Unique transaction ID
 *	sale_date – Date of sale
@@ -82,6 +83,10 @@ _Note: For detailed list of  questions, refer to the SQL file in this repository
 * PostgreSQL
 * SQL
 
+## How to Use
+1. Create table using given schema
+2. Insert dataset
+3. Run SQL queries from the SQL file
 
 ## Conclusion
 This project demonstrates how SQL can be used to analyze real-world transactional data and generate actionable business insights.
