@@ -83,7 +83,7 @@ _Note: For detailed list of  questions, refer to the SQL file in this repository
 * PostgreSQL
 * SQL
 
-## How to Use
+## How to Run
 1. Create table using given schema
 2. Insert dataset
 3. Run SQL queries from the SQL file
