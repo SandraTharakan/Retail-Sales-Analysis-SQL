@@ -87,4 +87,5 @@ _Note: For detailed list of  questions, refer to the SQL file in this repository
 This project demonstrates how SQL can be used to analyze real-world transactional data and generate actionable business insights.
 
 
-
+## Author 
+Sandra P. Tharakan
